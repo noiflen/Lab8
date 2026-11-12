@@ -15,14 +15,12 @@
     </properties>
 
     <dependencies>
-        <!-- H2 Database -->
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <version>2.2.224</version>
         </dependency>
 
-        <!-- JSON Library - ЭТОГО НЕ ХВАТАЕТ! -->
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
